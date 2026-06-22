@@ -4,7 +4,7 @@
 
 Estoy construyendo un perfil técnico que combina formación en ingeniería, gestión de sistemas de información y desarrollo de software. Mi objetivo es aplicar tecnología para mejorar procesos, ordenar información y construir soluciones útiles para contextos reales.
 
-Mi recorrido combina una base profesional en Ingeniería Civil con formación actual en Sistemas de Información y desarrollo técnico. Actualmente curso la Especialización en Gestión de Sistemas de Información en la Universidad del Salvador y desarrollo proyectos dentro del Common Core de 42 Madrid.
+Actualmente curso la Especialización en Gestión de Sistemas de Información en la Universidad del Salvador y desarrollo proyectos dentro del Common Core de 42 Madrid.
 
 Me interesa trabajar en soluciones donde el software ayude a mejorar la trazabilidad de la información, automatizar tareas y apoyar la toma de decisiones.
 
