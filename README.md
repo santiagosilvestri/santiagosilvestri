@@ -1,8 +1,8 @@
 # Santiago Silvestri
 
-Civil Engineer focused on **Software Development**, Systems Programming, and Information Systems.
+Civil Engineer focused on Software Development, Systems Programming, and Information Systems.
 
-Currently pursuing the Common Core at **42 Madrid** and a Specialization in Information Systems Management at **Universidad del Salvador**.
+Currently pursuing the Common Core at 42 Madrid and a Specialization in Information Systems Management at Universidad del Salvador.
 
 I enjoy exploring algorithms, building practical tools, and developing software that solves real-world problems.
 
