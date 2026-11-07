@@ -1,13 +1,17 @@
 # Santiago Silvestri
 
-Ingeniero Civil orientado a Sistemas de Información y desarrollo de software.
+Civil Engineer focused on **Software Development, Systems Programming, and Information Systems**.
 
-Actualmente curso la Especialización en Gestión de Sistemas de Información en la Universidad del Salvador y desarrollo proyectos dentro del Common Core de 42 Madrid.
+Currently pursuing the **Common Core at 42 Madrid** and a **Specialization in Information Systems Management** at Universidad del Salvador.
 
-Mi objetivo es aplicar tecnología para mejorar procesos, ordenar información y construir soluciones útiles para contextos reales.
+I enjoy exploring algorithms, building practical tools, and developing software that solves real-world problems.
 
-## Formación
+## Technical Interests
 
-* **42 Madrid — Common Core:** programación en C, memoria, algoritmos, línea de comandos y aprendizaje basado en proyectos.
-* **Universidad del Salvador:** sistemas de información, procesos, soporte a la decisión y gestión tecnológica.
-* **Universidad Tecnológica Nacional:** Ingeniería Civil, planificación, documentación técnica y resolución estructurada de problemas.
+C · Python · Systems Programming · Artificial Intelligence · Harness Engineering · Distributed Systems
+
+## Education
+
+- **42 Madrid** — Common Core, project-based software development.
+- **Universidad del Salvador** — Specialization in Information Systems Management.
+- **Universidad Tecnológica Nacional** — Civil Engineering.
