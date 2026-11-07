@@ -12,6 +12,6 @@ C · Python · Systems Programming · Artificial Intelligence · Harness Enginee
 
 ## Education
 
-- **42 Madrid** — Common Core, project-based software development.
-- **Universidad del Salvador** — Specialization in Information Systems Management.
-- **Universidad Tecnológica Nacional** — Civil Engineering.
+- **42 Madrid** - Common Core, project-based software development.
+- **Universidad del Salvador** - Specialization in Information Systems Management.
+- **Universidad Tecnológica Nacional** - Civil Engineering.
